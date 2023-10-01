@@ -4,5 +4,8 @@
 build/
 .gradle
 gradle/
-gradlew
 gradlew.bat
+.gitignore
+gradlew.bat
+gradlew
+gradle/wrapper
